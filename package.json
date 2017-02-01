@@ -1,0 +1,33 @@
+{
+  "name": "gitflow",
+  "version": "0.5.0",
+  "description": "Modified gitflow for DREIDEV",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmosh/gitflow-npm.git"
+  },
+  "keywords": [
+    "gitflow",
+    "dreidev",
+    "version",
+    "control",
+    "git",
+    "drazious",
+    "cmosh"
+  ],
+   "author": {
+    "name": "Clive Makamara",
+    "email": "cmosh@live.com",
+    "url": "http://github.com/cmosh",
+    "organization": "dreidev"
+    },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmosh/gitflow-npm/issues"
+  },
+  "homepage": "https://github.com/cmosh/gitflow-npm#readme"
+}
